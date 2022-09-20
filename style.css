@@ -1,0 +1,85 @@
+.titlebar{
+    display: inline-block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+h1.titlebar{
+    margin: 20px 20px 20px 20px;
+}
+
+li.titlebar{
+    margin:  5px 10px 5px 5px;
+    display: inline-block;
+}
+
+ul.titlebar{
+    margin:  5px 10px 5px 900px;
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.column1 {
+    float: left;
+    width: 75%;
+    margin: 1px;
+    text-align:center;
+  }
+
+ p.intro{
+    text-align: left;
+    margin: 40px 100px 0px 100px;
+    min-height: 250px;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+.column2{
+    float: left;
+    width: 20%;
+}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  figure.intro{
+    max-width:100%;
+  }
+
+.footerimg{
+    opacity:75%;
+    text-align: center;
+}
+
+p{    
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.center{
+    text-align: center;
+}
+
+.vertcent{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.module{
+    margin:20px 20px 20px 45%;
+    list-style-position: inside;
+}
