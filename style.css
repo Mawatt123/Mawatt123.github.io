@@ -15,7 +15,7 @@ li.titlebar{
 ul.titlebar{
     right: 30px;
     top:30px;
-    display: inline-block;
+    display: inline;
     position:absolute;
 }
 
