@@ -59,6 +59,7 @@ figcaption{
   figure.intro{
     max-width:100%;
     margin: 10px 10px 10px 10px;
+    position: absolute;
   }
 
 .footerimg{
