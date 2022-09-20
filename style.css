@@ -9,11 +9,12 @@ h1.titlebar{
 
 li.titlebar{
     margin:  5px 5px 5px 5px;
-    display: inline-block;
+    display: inline;
 }
 
 ul.titlebar{
-    margin:  5px 10px 20px 40%;
+    right: 30px;
+    top:30px;
     display: inline-block;
     position:absolute;
 }
