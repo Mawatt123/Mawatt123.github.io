@@ -8,13 +8,12 @@ h1.titlebar{
 }
 
 li.titlebar{
-    margin:  5px 10px 5px 5px;
+    margin:  5px 5px 5px 5px;
     display: inline-block;
-    color: red;
 }
 
 ul.titlebar{
-    margin:  5px 10px 5px 40%;
+    margin:  5px 10px 20px 40%;
     display: inline-block;
     position:absolute;
 }
